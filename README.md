@@ -7,3 +7,46 @@ This Python script does the following:
 4. Plots also the prediction accuracies against k of both the homebrew k-NN and scikit-learn's KNeighborsClassifier for comparison.
 
 ![alt text](https://kurtcms.org/git/knn-sklearn-iris/knn-sklearn-iris-plot.png)
+
+## Table of Content
+
+- [Getting Started](#getting-started)
+- [Dependencies](#dependencies)
+- [Run](#run)
+
+## Getting Started
+
+Get started in three simple steps:
+
+1. [Download](#git-clone) a copy of the script;
+2. Install the [dependencies](#dependencies); and
+3. [Run](#run) the script manually.
+
+## Git Clone
+
+Download a copy of the script with `git clone`
+```shell
+$ git clone https://github.com/kurtcms/knn-sklearn-iris /opt/
+```
+
+## Dependencies
+
+This script requires the following libraries:
+
+1. [NumPy](https://github.com/numpy/numpy)
+2. [Matplotlib](https://github.com/matplotlib/matplotlib)
+3. [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+
+Install them with [`pip3`](https://github.com/pypa/pip):
+
+```shell
+$ pip3 install numpy pandas matplotlib scikit-learn
+```
+
+## Run
+
+Run the script with [`Python 3`](https://github.com/python/cpython)
+
+```shell
+$ python3 /opt/knn-sklearn-iris/knn-sklearn-iris.py
+```
