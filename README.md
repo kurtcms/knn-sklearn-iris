@@ -40,7 +40,7 @@ This script requires the following libraries:
 Install them with [`pip3`](https://github.com/pypa/pip):
 
 ```shell
-$ pip3 install numpy pandas matplotlib scikit-learn
+$ pip3 install numpy matplotlib scikit-learn
 ```
 
 ## Run
