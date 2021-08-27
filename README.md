@@ -11,8 +11,9 @@ This Python script does the following:
 ## Table of Content
 
 - [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
-- [Run](#run)
+  - [Git Clone](#git-clone)
+  - [Dependencies](#dependencies)
+  - [Run](#run)
 
 ## Getting Started
 
@@ -22,14 +23,14 @@ Get started in three simple steps:
 2. Install the [dependencies](#dependencies); and
 3. [Run](#run) the script manually.
 
-## Git Clone
+### Git Clone
 
 Download a copy of the script with `git clone`
 ```shell
 $ git clone https://github.com/kurtcms/knn-sklearn-iris /opt/
 ```
 
-## Dependencies
+### Dependencies
 
 This script requires the following libraries:
 
@@ -43,7 +44,7 @@ Install them with [`pip3`](https://github.com/pypa/pip):
 $ pip3 install numpy matplotlib scikit-learn
 ```
 
-## Run
+### Run
 
 Run the script with [`Python 3`](https://github.com/python/cpython)
 
