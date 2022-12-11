@@ -47,7 +47,7 @@ $ pip3 install numpy matplotlib scikit-learn
 
 ### Run
 
-Run the script with [`Python 3`](https://github.com/python/cpython)
+Run the script with [`python3`](https://github.com/python/cpython)
 
 ```shell
 $ python3 /opt/knn-sklearn-iris/knn-sklearn-iris.py
