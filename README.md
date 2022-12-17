@@ -27,6 +27,7 @@ Get started in three simple steps:
 ### Git Clone
 
 Download a copy of the script with `git clone`.
+
 ```shell
 $ git clone https://github.com/kurtcms/knn-sklearn-iris /app/knn-sklearn-iris/
 ```
@@ -47,7 +48,7 @@ $ pip3 install numpy matplotlib scikit-learn
 
 ### Run
 
-Run the script with [`python3`](https://github.com/python/cpython)
+Run the script with [`python3`](https://github.com/python/cpython).
 
 ```shell
 $ python3 /app/knn-sklearn-iris/knn-sklearn-iris.py
